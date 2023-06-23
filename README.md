@@ -3,6 +3,8 @@ Stock Forecast using RNN, GRU, LSTM models
 Title: Stock Price Forecasting with RNN, GRU, and LSTM Models
 
 [Colab Notebook](https://colab.research.google.com/drive/1Bru5CREFxm0RSbS0UXa9Y4iGbF0Lmr5x#scrollTo=Ttf-SeWh1Cf6)
+
+<iframe src="forecastPlot1.html" width="600" height="400"></iframe>
 Introduction:
 This GitHub repository presents a comprehensive project focused on stock price forecasting using various recurrent neural network (RNN) architectures, including RNN, GRU, and LSTM models. The project utilizes historical Amazon stock data to train, evaluate, and compare the performance of these models in predicting future stock prices.
 
