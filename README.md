@@ -1,5 +1,5 @@
 # StockForecast_RNN_GRU_LSTM
-Stock Forecast using RNN, GRU, LSTM models
+
 Title: Stock Price Forecasting with RNN, GRU, and LSTM Models
 
 [Colab Notebook](https://colab.research.google.com/drive/1Bru5CREFxm0RSbS0UXa9Y4iGbF0Lmr5x#scrollTo=Ttf-SeWh1Cf6)
